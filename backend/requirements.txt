@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-python-jose
-passlib[bcrypt]
-sentence-transformers
-faiss-cpu
-llama-cpp-python
-requests
-python-dotenv
